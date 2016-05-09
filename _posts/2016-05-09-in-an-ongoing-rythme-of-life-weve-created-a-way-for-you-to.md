@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ABOUT US
-datePublished: '2016-05-09T19:13:47.804Z'
-dateModified: '2016-05-09T19:13:43.239Z'
+description: ABOUT THE SERVICE
+datePublished: '2016-05-09T19:46:14.219Z'
+dateModified: '2016-05-09T19:46:09.388Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-in-an-ongoing-rythme-of-life-weve-created-a-way-for-you-to.md
@@ -21,7 +21,7 @@ url: in-an-ongoing-rythme-of-life-weve-created-a-way-for-you-to/index.html
 _type: Article
 
 ---
-ABOUT US
+ABOUT THE SERVICE
 
 In an ongoing rythme of life EvoSteam created a way for you to gain more time for yourself and your family. 
 
