@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ABOUT US
-datePublished: '2016-05-09T18:58:57.383Z'
-dateModified: '2016-05-09T18:58:29.836Z'
+datePublished: '2016-05-09T19:05:47.908Z'
+dateModified: '2016-05-09T19:05:42.376Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-in-an-ongoing-rythme-of-life-weve-created-a-way-for-you-to.md
@@ -29,6 +29,6 @@ EvoSteam efforts are mainly concentrated to provide you the highest quality for:
 
 - car washing&detailling, interior-exterior;
 
-- desinfecting
+- desinfect&sanitize car environement for our children's safety.
 
-Not only EvoSteam provide the best high-quality for your car detailing, but also our Eco-Friendly Mobile Unit come to you and do the job on the spot, so you can see how we take care of your beloved car
+Not only EvoSteam provide the best high-quality for your car detailling, but also our Eco-Friendly Mobile Unit come to you and do the job on the spot, so you can see how we take care of your beloved car
