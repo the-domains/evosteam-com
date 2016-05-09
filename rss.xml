@@ -4,8 +4,15 @@
         <description><![CDATA[evosteam.com]]></description>
         <link>https://thegrid.ai/evosteam-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 15:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 16:38:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/evosteam-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>ABOUT US</p>]]></description>
+            <link>https://thegrid.ai/evosteam-com/in-an-ongoing-rythme-of-life-weve-created-a-way-for-you-to/index.html</link>
+            <guid isPermaLink="false">6cde4508-ff6b-45a5-b843-f138082164d6</guid>
+            <pubDate>Mon, 09 May 2016 16:37:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36d2730d-c788-4f8d-9a65-962ceef2438e.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/evosteam-com/636acb21-8ffd-4945-9888-96dd472a44fa/index.html</link>
             <guid isPermaLink="false">636acb21-8ffd-4945-9888-96dd472a44fa</guid>
             <pubDate>Mon, 09 May 2016 15:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>In an ongoing rythme of life we've created a way for you to gain more time for yourself and your family. Not only we provide the best high-quality for your car detailing, we also come to you and do the job on the spot, so you can see how we take car of your beloved car</p>]]></description>
-            <link>https://thegrid.ai/evosteam-com/in-an-ongoing-rythme-of-life-weve-created-a-way-for-you-to/index.html</link>
-            <guid isPermaLink="false">6cde4508-ff6b-45a5-b843-f138082164d6</guid>
-            <pubDate>Mon, 09 May 2016 14:43:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
