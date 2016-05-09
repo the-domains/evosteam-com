@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: OUR VALUES
-datePublished: '2016-05-09T19:48:48.171Z'
-dateModified: '2016-05-09T19:48:44.758Z'
+datePublished: '2016-05-09T20:07:21.668Z'
+dateModified: '2016-05-09T20:07:17.029Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-httpwwwcharitywaterorgblogfightdirty-with-us.md
@@ -22,6 +22,7 @@ _type: Article
 
 ---
 **OUR VALUES**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35e21975-3c3e-4327-88db-c844de90eac8.jpg)
 
 Passion
 
