@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Values
-datePublished: '2016-05-09T19:25:05.289Z'
-dateModified: '2016-05-09T19:25:00.135Z'
+description: OUR VALUES
+datePublished: '2016-05-09T19:48:48.171Z'
+dateModified: '2016-05-09T19:48:44.758Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-httpwwwcharitywaterorgblogfightdirty-with-us.md
@@ -21,7 +21,7 @@ url: httpwwwcharitywaterorgblogfightdirty-with-us/index.html
 _type: Article
 
 ---
-Values
+**OUR VALUES**
 
 Passion
 
