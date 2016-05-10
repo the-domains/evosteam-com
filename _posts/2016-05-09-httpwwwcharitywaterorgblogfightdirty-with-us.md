@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: OUR VALUES
-datePublished: '2016-05-10T16:52:24.038Z'
-dateModified: '2016-05-10T16:52:16.710Z'
+datePublished: '2016-05-10T17:10:05.937Z'
+dateModified: '2016-05-10T17:09:56.472Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-httpwwwcharitywaterorgblogfightdirty-with-us.md
@@ -22,6 +22,6 @@ _type: Article
 
 ---
 **OUR VALUES**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35e21975-3c3e-4327-88db-c844de90eac8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d37512ea3a307053fb820201eda1bc8d91e48f1a.jpg)
 
-We believe in Passion. Innovation. Technology. Communication. Creative Minds. Community
+We believe in Passion. Innovation. Technology. Communication. Creative Minds. Community. Saving Natural Resources
