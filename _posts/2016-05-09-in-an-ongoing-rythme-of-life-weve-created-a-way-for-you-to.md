@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ABOUT THE SERVICE
-datePublished: '2016-05-09T19:46:14.219Z'
-dateModified: '2016-05-09T19:46:09.388Z'
+datePublished: '2016-05-10T17:20:51.538Z'
+dateModified: '2016-05-10T17:20:46.413Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-in-an-ongoing-rythme-of-life-weve-created-a-way-for-you-to.md
@@ -27,9 +27,13 @@ In an ongoing rythme of life EvoSteam created a way for you to gain more time fo
 
 EvoSteam efforts are mainly concentrated to provide you the highest quality for:
 
-- car washing&detailling, interior-exterior;
+- car wash&detailling (interior-exterior);
 
-- desinfect&sanitize car environement for our children's safety.
+- seat spots&salt removing;
+
+-decontamination&car paint polishing;
+
+- desinfection&car sanitizing.
 
 Not only EvoSteam provide the best high-quality for your car detailling, but also our Eco-Friendly Mobile Unit come to you and do the job on the spot, so you can see how we take care of your beloved car
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcfdd64c-1e89-40fe-878d-91a7047be714.jpg)
