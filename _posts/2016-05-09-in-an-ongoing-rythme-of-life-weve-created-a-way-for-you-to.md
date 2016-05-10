@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ABOUT THE SERVICE
-datePublished: '2016-05-10T17:20:51.538Z'
-dateModified: '2016-05-10T17:20:46.413Z'
+datePublished: '2016-05-10T17:51:58.240Z'
+dateModified: '2016-05-10T17:51:40.183Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-in-an-ongoing-rythme-of-life-weve-created-a-way-for-you-to.md
