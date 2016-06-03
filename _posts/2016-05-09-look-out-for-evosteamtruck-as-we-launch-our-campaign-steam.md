@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-03T02:23:23.140Z'
-dateModified: '2016-06-03T02:22:48.476Z'
+datePublished: '2016-06-03T02:57:00.026Z'
+dateModified: '2016-06-03T02:56:58.716Z'
 title: Events
 author: []
 sourcePath: _posts/2016-05-09-look-out-for-evosteamtruck-as-we-launch-our-campaign-steam.md
@@ -23,8 +23,7 @@ _type: Article
 
 **1\. Montreal F1 GrandPrix @ Monkland Village**
 
-* Volunteering with \#EvoSteam at the Monkland Festival! 
-* Come & Engage in THE EXCITEMENT!! \#MTL \#MTLCity \#montreal \#monkland \#MonklandFestival2016 \#grandprix2016 \#love \#joy \#volunteer \#summer \#sunnydays \#mtlblog \#mtlmoments \#thebeat****************
+* Volunteering with \#EvoSteam at the Monkland Festival!Come & Engage in THE EXCITEMENT!! \#MTL \#MTLCity \#montreal \#monkland \#MonklandFestival2016 \#grandprix2016 \#love \#joy \#volunteer \#summer \#sunnydays \#mtlblog \#mtlmoments \#thebeat
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3475ea0-9ebf-473a-ae6b-d081a282f608.jpg)
 
 ****
