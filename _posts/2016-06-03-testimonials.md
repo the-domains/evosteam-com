@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: TESTIMONIALS
-datePublished: '2016-06-03T02:51:07.085Z'
-dateModified: '2016-06-03T02:50:31.445Z'
+datePublished: '2016-06-03T17:55:00.450Z'
+dateModified: '2016-06-03T17:54:33.983Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-03-testimonials.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-03-testimonials.md
 url: testimonials/index.html
 _type: Article
 
